@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **221206priyasingh@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1fcqyUhRNxNUDM05NRr1-gwwlzSGD66UD/edit?usp=sharing&ouid=101344321821642047723&rtpof=true&sd=true](https://docs.google.com/document/d/1fcqyUhRNxNUDM05NRr1-gwwlzSGD66UD/edit?usp=sharing&ouid=101344321821642047723&rtpof=true&sd=true)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1fcqyUhRNxNUDM05NRr1-gwwlzSGD66UD/edit?usp=sharing&ouid=101344321821642047723&rtpof=true&sd=true](https://drive.google.com/file/d/1Twfne1cVRL69czmD3lKZmp4Zk7RSVrbW/view?usp=sharing)
 
 - ⚡ Fun fact **I love to code, read books and watch movies**
 

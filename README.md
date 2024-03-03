@@ -7,16 +7,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 
-- 🌱 I’m currently learning **Android Programming, C++**
-
-- 💬 Ask me about **Java, Python**
-
+- 🌱 I’m currently learning **Python, SQL**
 
 - 📫 How to reach me **221206priyasingh@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1eOqEoVo1eltkPktTM7qlwknA4s7eMGv8/view?usp=drivesdk
+- 📄 Know about my experiences https://drive.google.com/file/d/1eOqEoVo1eltkPktTM7qlwknA4s7eMGv8/view?usp=drivesdk
 
-- ⚡ Fun fact **I love to code, read books and watch movies**
+- ⚡ Fun fact **I love to code, read books, paint and watch movies**
 
 
 </p>
